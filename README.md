@@ -69,6 +69,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Statamic](https://github.com/statamic) | Flat File CMS | [https://statamic.com](https://statamic.com) |
 | [Larasocial](https://github.com/msalom28/Larasocial) | A Social Network Application | [http://larasocial.info](http://larasocial.info) |
 | [Aimeos](https://github.com/aimeos/aimeos-laravel) | Ecommerce package for high performance online shops | [https://aimeos.org/Laravel](https://aimeos.org/Laravel) |
+| [Coaster CMS](https://github.com/web-feet/coastercms) | Open source, full featured, easy to use CMS with Physical Web integration  | [https://www.coastercms.org](https://www.coastercms.org) |
 
 
 ## Rails
